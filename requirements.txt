@@ -16,3 +16,8 @@ youtube-transcript-api==0.6.1
 chromadb==0.3.26
 ffmpeg-python==0.2.0
 huggingface-hub==0.14.1
+
+# ✅ Fix Streamlit Cloud build errors
+rich==13.7.1
+markdown-it-py==2.2.0
+pygments==2.15.1
