@@ -17,7 +17,7 @@ youtube-search-python==1.6.6
 youtube-transcript-api==0.6.1
 streamlit-extras==0.2.7
 
-# 🔒 Compatible versions for Streamlit Cloud
+# ✅ Force compatible versions to stop Cloud error
 rich==13.7.1
 pygments==2.15.1
 markdown-it-py==2.2.0
