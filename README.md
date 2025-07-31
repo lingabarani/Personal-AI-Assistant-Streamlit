@@ -55,7 +55,7 @@ Deploy 🚀
 Crafted with dedication by Lingabarani
 📧 Email: lingabaraniak@gmail.com
 🌐 GitHub: [github.com/lingabarani](https://github.com/lingabarani)
-🔗 LinkedIn: [linkedin.com/in/yourlinkedinusername](https://www.linkedin.com/in/lingabarani/)
+🔗 LinkedIn: [https://www.linkedin.com/in/lingabarani/](https://www.linkedin.com/in/lingabarani/)
 
 📜 License
 © 2025 Lingabarani. All Rights Reserved.
